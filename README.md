@@ -9,7 +9,7 @@ You don't need to be familiar with the Python language to use this book, as Dani
 
 Daniel will get you up to speed on everything from basic programming practices to high-end tools and techniques, things that will help set you apart as a successful Python programmer.
 
-##Instructions and Navigation
+## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 
@@ -24,7 +24,7 @@ def example_function(name, radius):
 You will need Ubuntu 16.04 and Python (version 3.6). You can also run the code examples on Windows and macOS.
 You may opt to use VirtualBox as well to test the code in the book.
 
-##Related Products
+## Related Products
 
 * [Mastering Python Networking](https://www.packtpub.com/networking-and-servers/mastering-python-networking?utm_source=github&utm_medium=repository&utm_campaign=9781784397005)
 
