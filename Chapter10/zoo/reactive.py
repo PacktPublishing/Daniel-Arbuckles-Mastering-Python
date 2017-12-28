@@ -41,7 +41,7 @@ class Observable(abc.ABC):
         if self.complete:
             raise RuntimeError("Can't send exceptions on a completed Observable")
         for obs in self.observers:
-            obs.on_exception(event)
+            obs.on_exception(exception)
 
     def _complete(self):
         if self.complete:
